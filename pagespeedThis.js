@@ -1,0 +1,1 @@
+javascript:window.location='https://developers.google.com/speed/pagespeed/insights/?url='+encodeURI(window.location);
