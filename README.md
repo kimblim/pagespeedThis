@@ -10,11 +10,14 @@ javascript:window.location='https://developers.google.com/speed/pagespeed/insigh
 ```
 
 ## Install
+For now it's a bit tedious — create a HTML-page containing a link with the code mentioned above in the href. Or visit a temporary page I've set up: [Temporary page](http://github.kimblim.dk/pagespeedThis).
+
 
 ## Usage
+Visit a page, click the bookmarklet. It's that simple, and that's the reason I was able to make it. 
 
 ## To-do
-Improve documentation — if anyone has a good idea on how to incorporate the actual bookmarklet in markdown, I'm all ears :)
+* Improve documentation — if anyone has a good idea on how to incorporate the actual bookmarklet in markdown, I'm all ears :)
 
 ## License
 
