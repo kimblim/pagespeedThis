@@ -10,7 +10,7 @@ javascript:window.location='https://developers.google.com/speed/pagespeed/insigh
 ```
 
 ## Install
-For now it's a bit tedious — create a HTML-page containing a link with the code mentioned above in the href. 
+For now it's a bit tedious — create a HTML-page containing a link with the code mentioned above in the href, visit that page and then drag the link to your bookmarks-folder / bar. 
 
 
 ## Usage
