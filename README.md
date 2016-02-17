@@ -10,7 +10,7 @@ javascript:window.location='https://developers.google.com/speed/pagespeed/insigh
 ```
 
 ## Install
-For now it's a bit tedious — create a HTML-page containing a link with the code mentioned above in the href. Or visit a temporary page I've set up: [Temporary page](http://github.kimblim.dk/pagespeedThis).
+For now it's a bit tedious — create a HTML-page containing a link with the code mentioned above in the href. 
 
 
 ## Usage
