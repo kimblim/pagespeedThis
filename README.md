@@ -10,7 +10,7 @@ javascript:window.location='https://developers.google.com/speed/pagespeed/insigh
 ```
 
 ## Install
-For now it's a bit tedious — create a HTML-page containing a link with the code mentioned above in the href, visit that page and then drag the link to your bookmarks-folder / bar. 
+For now it's a bit tedious — create a HTML-page containing a link with the code mentioned above in the href, visit that page and then drag the link to your bookmarks-folder / bar. [javascript:window.location='https://developers.google.com/speed/pagespeed/insights/?url='+encodeURI(window.location);](Drag me to the toolbar)
 
 
 ## Usage
